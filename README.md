@@ -1,6 +1,9 @@
 https://anirudh.citybook.in/
 The project is deployed on above domain.
 
+Project file execution on system
+Using XAMPP Server , Save the file in htdocs folder and execute the file with nlocalhost
+
 Instructional flow of use of system
 
 1. Upload CSV or Text file to System. 
